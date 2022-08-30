@@ -1,20 +1,5 @@
-<<<<<<< HEAD
-# facebook
+# Facebook App UI created with Flutter
 
-A new Flutter project.
+## *Screenshots of the App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter-Facebook-UI
->>>>>>> 970a720572a0e3444e16b2a26a2e3a2453883c10
+<img src="https://github.com/abhay-2105/Flutter-Facebook-UI/blob/master/screenshots/facebook%20ui%20screenshot(1).jpeg" height=450 width=220>  <img src="https://github.com/abhay-2105/Flutter-Facebook-UI/blob/master/screenshots/facebook%20ui%20screenshot(2).jpeg" height=450 width=220>  <img src="https://github.com/abhay-2105/Flutter-Facebook-UI/blob/master/screenshots/facebook%20ui%20screenshot(3).jpeg" height=450 width=220>
